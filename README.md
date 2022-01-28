@@ -11,6 +11,7 @@ This project was developed while reading the book [Python for Algorithmic Tradin
 The strategies covered are:
 - Simple Moving Averages
 <img src="img/SMA.PNG?raw=true"/>
+
 - Momentum
 - Mean Reversion
 - Machine Learning (Linear and Logistic Regression)
