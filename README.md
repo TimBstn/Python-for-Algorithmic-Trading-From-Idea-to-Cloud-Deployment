@@ -16,7 +16,7 @@ The strategies covered are:
 - Mean Reversion
 - Machine Learning (Linear and Logistic Regression)
 
-This presentation should only be considered as an introduction and further development and optimization of the strategies should be considered. 
+This presentation should only be seen as an introduction and further development and optimization of the strategies should be considered. 
 
 
 
